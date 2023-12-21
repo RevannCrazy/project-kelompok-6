@@ -5,4 +5,4 @@
 <div> 2. Widyah Putri Auliya Amin (231031048) <div>
 <div> 3. Awal Ramadhan (231031040) <div>
 <div> 4. Fathin Alwan Tahir (231031038) <div>
-*Project Kelompok 6 `project-kelompok-6`
+* Project Kelompok 6 `project-kelompok-6`
